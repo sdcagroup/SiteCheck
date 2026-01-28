@@ -11,7 +11,7 @@ sites:
     url: https://sicomindistries.com
   - name: The Tickle Trunk
     url: https://thetickletrunk.com
-    - name: Stu Bell
+  - name: Stu Bell
     url: https://stubell.com.com
   #- name: IPv6 test
   #  url: forwardemail.net
