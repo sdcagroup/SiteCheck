@@ -1,14 +1,15 @@
 # Change these first
 owner: sdcagroup # Your GitHub organization or username, where this repository lives
 repo: SiteCheck # The name of this repository
+user-agent: sdcagroup
 
 sites:
-  - name: HollyNorth
-    url: https://www.hollynorth.com
+  - name: Holly North
+    url: https://hollynorth.com
   - name: Hoop Tape
-    url: https://Hooptapecanada.com
+    url: https://hooptapecanada.com
   - name: Sicom
-    url: https://sicomindistries.com
+    url: https://sicomindustries.com
   - name: The Tickle Trunk
     url: https://thetickletrunk.com
   - name: Stu Bell
