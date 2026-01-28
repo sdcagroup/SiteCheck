@@ -27,7 +27,7 @@ status-website:
   baseUrl: /SiteCheck
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Website monitor and status page, powered entirely by GitHub."
+  introTitle: "Status page, powered entirely by GitHub."
   introMessage: 
   navbar:
     - title: Status
