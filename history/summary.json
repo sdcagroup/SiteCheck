@@ -1,27 +1,27 @@
 [
   {
-    "name": "HollyNorth",
-    "url": "https://www.hollynorth.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.hollynorth.com.ico",
+    "name": "Holly North",
+    "url": "https://hollynorth.com",
+    "icon": "https://icons.duckduckgo.com/ip3/hollynorth.com.ico",
     "slug": "holly-north",
     "status": "down",
-    "uptime": "5.42%",
-    "uptimeDay": "5.42%",
-    "uptimeWeek": "5.42%",
-    "uptimeMonth": "5.42%",
-    "uptimeYear": "5.42%",
-    "time": 68,
-    "timeDay": 68,
-    "timeWeek": 68,
-    "timeMonth": 68,
-    "timeYear": 68,
+    "uptime": "0.22%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
+    "time": 108,
+    "timeDay": 108,
+    "timeWeek": 108,
+    "timeMonth": 108,
+    "timeYear": 108,
     "dailyMinutesDown": {
-      "2026-01-28": 0
+      "2026-01-28": 7
     }
   },
   {
     "name": "Hoop Tape",
-    "url": "https://Hooptapecanada.com",
+    "url": "https://hooptapecanada.com",
     "icon": "https://icons.duckduckgo.com/ip3/hooptapecanada.com.ico",
     "slug": "hoop-tape",
     "status": "down",
@@ -30,33 +30,33 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 73,
-    "timeDay": 73,
-    "timeWeek": 73,
-    "timeMonth": 73,
-    "timeYear": 73,
+    "time": 71,
+    "timeDay": 71,
+    "timeWeek": 71,
+    "timeMonth": 71,
+    "timeYear": 71,
     "dailyMinutesDown": {
-      "2026-01-28": 0
+      "2026-01-28": 7
     }
   },
   {
     "name": "Sicom",
-    "url": "https://sicomindistries.com",
-    "icon": "https://icons.duckduckgo.com/ip3/sicomindistries.com.ico",
+    "url": "https://sicomindustries.com",
+    "icon": "https://icons.duckduckgo.com/ip3/sicomindustries.com.ico",
     "slug": "sicom",
     "status": "down",
-    "uptime": "1.16%",
-    "uptimeDay": "1.16%",
-    "uptimeWeek": "1.16%",
-    "uptimeMonth": "1.16%",
-    "uptimeYear": "1.16%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 176,
+    "timeDay": 176,
+    "timeWeek": 176,
+    "timeMonth": 176,
+    "timeYear": 176,
     "dailyMinutesDown": {
-      "2026-01-28": 0
+      "2026-01-28": 7
     }
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 317,
-    "timeWeek": 317,
-    "timeMonth": 317,
-    "timeYear": 317,
+    "time": 529,
+    "timeDay": 529,
+    "timeWeek": 529,
+    "timeMonth": 529,
+    "timeYear": 529,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 72,
-    "timeDay": 72,
-    "timeWeek": 72,
-    "timeMonth": 72,
-    "timeYear": 72,
+    "time": 110,
+    "timeDay": 110,
+    "timeWeek": 110,
+    "timeMonth": 110,
+    "timeYear": 110,
     "dailyMinutesDown": {}
   }
 ]
