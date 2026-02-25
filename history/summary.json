@@ -16,7 +16,7 @@
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2026-02-25": 451,
+      "2026-02-25": 489,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
@@ -92,15 +92,15 @@
     "url": "https://thetickletrunk.com",
     "icon": "https://icons.duckduckgo.com/ip3/thetickletrunk.com.ico",
     "slug": "the-tickle-trunk",
-    "status": "up",
-    "uptime": "84.80%",
-    "uptimeDay": "52.61%",
+    "status": "down",
+    "uptime": "84.82%",
+    "uptimeDay": "52.60%",
     "uptimeWeek": "72.24%",
-    "uptimeMonth": "84.80%",
-    "uptimeYear": "84.80%",
+    "uptimeMonth": "84.82%",
+    "uptimeYear": "84.82%",
     "time": 447,
-    "timeDay": 466,
-    "timeWeek": 442,
+    "timeDay": 457,
+    "timeWeek": 441,
     "timeMonth": 447,
     "timeYear": 447,
     "dailyMinutesDown": {
@@ -139,18 +139,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stubell.com.com.ico",
     "slug": "stu-bell",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "89.96%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.54%",
+    "uptimeDay": "87.28%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 160,
     "timeDay": 137,
     "timeWeek": 166,
     "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2026-02-25": 145
+      "2026-02-25": 183
     }
   }
 ]
